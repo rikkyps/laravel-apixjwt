@@ -1,7 +1,7 @@
 # laravel-apixjwt
 REST APIs resource full CRUD with Authentication and Authorization using JSON Web Token (JWT) for Laravel
 
-# Installastion
+# Installation
 Pastikan di komputernya terinstall Composer. Dibuat di Environment Laravel Valet.
 
 Clone repository ke desktop
